@@ -1,0 +1,8 @@
+name: CustomItem
+version: '${version}'
+main: com.github.klee319.customitem.customitem.CustomItem
+api-version: 1.19
+authors: [ Klee319 ]
+
+commands:
+  giveGold:
