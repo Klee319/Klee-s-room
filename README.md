@@ -1,3 +1,4 @@
 # ParticleTools
-専用のタグ付きアイテム（LuxSeed)をツールに鍛冶台で合成するとパーティクルが出るようにします
+Java&PaperAPIチュートリアル
+専用のタグ付きアイテム（LuxSeed)をツールに鍛冶台で合成するとパーティクルが出るようにするMinecraft Plugin
 /giveGoldでタグアイテムを取得可能
